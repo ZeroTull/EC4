@@ -1,0 +1,13 @@
+c:\users\w7dmitryc\documents\visual studio 2012\Projects\EC4 Automation\EC4 Automation\obj\Debug\EC4 Automation.csprojResolveAssemblyReference.cache
+c:\users\w7dmitryc\documents\visual studio 2012\Projects\EC4 Automation\EC4 Automation\bin\Debug\EC4 Automation.dll.config
+c:\users\w7dmitryc\documents\visual studio 2012\Projects\EC4 Automation\EC4 Automation\bin\Debug\EC4 Automation.dll
+c:\users\w7dmitryc\documents\visual studio 2012\Projects\EC4 Automation\EC4 Automation\bin\Debug\EC4 Automation.pdb
+c:\users\w7dmitryc\documents\visual studio 2012\Projects\EC4 Automation\EC4 Automation\bin\Debug\nunit.framework.dll
+c:\users\w7dmitryc\documents\visual studio 2012\Projects\EC4 Automation\EC4 Automation\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\w7dmitryc\documents\visual studio 2012\Projects\EC4 Automation\EC4 Automation\bin\Debug\TestStack.White.dll
+c:\users\w7dmitryc\documents\visual studio 2012\Projects\EC4 Automation\EC4 Automation\bin\Debug\Castle.Core.dll
+c:\users\w7dmitryc\documents\visual studio 2012\Projects\EC4 Automation\EC4 Automation\bin\Debug\nunit.framework.xml
+c:\users\w7dmitryc\documents\visual studio 2012\Projects\EC4 Automation\EC4 Automation\bin\Debug\TestStack.White.pdb
+c:\users\w7dmitryc\documents\visual studio 2012\Projects\EC4 Automation\EC4 Automation\bin\Debug\Castle.Core.xml
+c:\users\w7dmitryc\documents\visual studio 2012\Projects\EC4 Automation\EC4 Automation\obj\Debug\EC4 Automation.dll
+c:\users\w7dmitryc\documents\visual studio 2012\Projects\EC4 Automation\EC4 Automation\obj\Debug\EC4 Automation.pdb
